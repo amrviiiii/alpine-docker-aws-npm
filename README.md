@@ -1,0 +1,1 @@
+# alpine-docker-aws-npm
