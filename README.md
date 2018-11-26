@@ -1,1 +1,2 @@
-# alpine-docker-aws-npm
+# alpine-docker-aws
+Docker and AWS Cli
